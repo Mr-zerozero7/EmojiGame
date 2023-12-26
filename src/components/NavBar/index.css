@@ -1,0 +1,28 @@
+/* Write your code here. */
+.navbar-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0px 20px 0px 20px;
+  color: #ffffff;
+  background-color: #ffffff30;
+  border-radius: 10px;
+  padding: 20px;
+}
+.logo-name-box {
+  width: 250px;
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-between; */
+  font-weight: bold;
+}
+.logo-name {
+  font-size: 21px;
+}
+.score-box {
+  width: 180px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-weight: bold;
+}

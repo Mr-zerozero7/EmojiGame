@@ -1,0 +1,22 @@
+/* Write your code here. */
+.win-or-lose-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 700px;
+  justify-content: space-between;
+}
+
+.won-image {
+  width: 350px;
+  height: 430px;
+}
+.button {
+  padding: 10px;
+  border: none;
+  background-color: #ffce27;
+  border-radius: 10px;
+  font-weight: 600;
+  cursor: pointer;
+  outline: none;
+}
